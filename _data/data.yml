@@ -94,7 +94,7 @@ education:
 experiences:
     - role: Business Tech Analyst - Expert
       time: Jan 2018 – Sep 2018
-      company: University of Missouri, Department of Family Medicine
+      company: University of Missouri, Department of Family Medicine, Columbia, MO
       details: |
           - Extract data from various data stores utilizing criteria based on client requirements
           - Deliver standardized and ad hoc reports using Excel/SQL/Cognos/Tableau/SAS
@@ -102,39 +102,50 @@ experiences:
           - Build interactive physician outpatient productivity report using Tableau
           - Analyze and help explain physician outpatient productivity trend using Tableau and SAS
           - Identify new tools to streamline business processes
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Date Resource Coordinator
+      time: Jan 2016 – Dec 2017
+      company: University of Missouri, College of Education, Columbia, MO
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Conducted descriptive data analysis on learning outcomes and satisfaction using SQL and Tableau
+          - Conducted predictive data analysis on student retention rate using SAS Enterprise Guide
+          - Developed and maintained Microsoft SQL database to facilitate the analysis of student assessment data
+          - Wrote SQL query to provide data for annual mandated reporting to state and federal agencies
+          - Developed and administered Qualtrics surveys and analyzed results to assess continuous improvement initiatives involving students, faculty, staff and other stakeholders
+          - Supervised graduate assistants
+    - role: Business Intelligence Analyst
+      time: Sep 2013 - Dec 2015
+      company: MBS Textbook Exchange, Columbia, MO
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    - role: Business Tech Analyst - Expert
-      time: Jan 2018 – Sep 2018
-      company: University of Missouri, Department of Family Medicine
+          - Analyzed and forecast call center call volumes using SAS Enterprise Miner
+          - Evaluated benefit/cost of adopting automation or continuing using manual labor to pick textbooks
+          - Created Tableau dashboards to support sales and operation teams
+          - Analyzed customer satisfaction surveys using linear regression
+          - Collected data from multiple sources (Microsoft SQL server and Access Database), conducted dynamic pricing experiments by considering cost, daily Amazon prices plus daily web traffic (Google Universal Aanlytics), and analyzed data using fixed effects models
+    - role: Trace Analysis Supervisor
+      time: Sep 2008 - May 2010
+      company: Doctor's Data Inc., St Charles, IL
       details: |
-          - Extract data from various data stores utilizing criteria based on client requirements
-          - Deliver standardized and ad hoc reports using Excel/SQL/Cognos/Tableau/SAS
-          - Design of several key data tables and create SQL scripts to streamline reporting needs
-          - Build interactive physician outpatient productivity report using Tableau
-          - Analyze and help explain physician outpatient productivity trend using Tableau and SAS
-          - Identify new tools to streamline business processes
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          -  Managed scheduling, daily operations, and supervised three lab operators
+          -  Provided technical support to internal and external clients
+          -  Interviewed, hired, trained, and evaluated three lab operators
+          -  Ensured quality production in a safe and timely manner
+          -  Developed and validated fast analysis method that increased production rate by 30%
+
 projects:
     title: Projects
     intro: >

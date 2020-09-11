@@ -106,11 +106,6 @@ experiences:
       time: Jan 2016 – Dec 2017
       company: University of Missouri, College of Education, Columbia, MO
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Conducted descriptive data analysis on learning outcomes and satisfaction using SQL and Tableau
           - Conducted predictive data analysis on student retention rate using SAS Enterprise Guide
           - Developed and maintained Microsoft SQL database to facilitate the analysis of student assessment data
@@ -121,11 +116,6 @@ experiences:
       time: Sep 2013 - Dec 2015
       company: MBS Textbook Exchange, Columbia, MO
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Analyzed and forecast call center call volumes using SAS Enterprise Miner
           - Evaluated benefit/cost of adopting automation or continuing using manual labor to pick textbooks
           - Created Tableau dashboards to support sales and operation teams
@@ -135,17 +125,11 @@ experiences:
       time: Sep 2008 - May 2010
       company: Doctor's Data Inc., St Charles, IL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           -  Managed scheduling, daily operations, and supervised three lab operators
           -  Provided technical support to internal and external clients
           -  Interviewed, hired, trained, and evaluated three lab operators
           -  Ensured quality production in a safe and timely manner
           -  Developed and validated fast analysis method that increased production rate by 30%
-
 projects:
     title: Projects
     intro: >

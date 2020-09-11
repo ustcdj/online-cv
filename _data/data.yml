@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: DJ Dong
-    tagline: Full Stack Data Scientist
+    tagline: Data Scientist
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ustcdj@gmail.com
-    phone: 573 234 6100
+    phone: 573 234 6102
     website: ustcdj.github.io #do not add http://
     linkedin: linkedin.com/in/ustcdj
     github: github.com/ustcdj
@@ -32,9 +32,6 @@ sidebar:
       - idiom: Chinese
         level: Native
 
-      - idiom:
-        level:
-
     interests:
       - item: Techonology
         link:
@@ -50,6 +47,17 @@ career-profile:
     summary: |
       Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization, and familiar with machine learning algorithms such as supervised learning, unsupervised learning, neuron networks. Excellent written and oral communication skills built from years of presenting analysis results to seniro management.
 education:
+    - degree: Data Scientist Nanodegree
+      university: Udacity
+      time: 2019 - 2020
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: MBA
       university: University of Missouri
       time: 2011 - 2013
@@ -72,22 +80,28 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - degree: BSc in Chemical Physics
+      university: University of Science and Technology of China
+      time: 1998 - 2003
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
           - Bullet point
           - Bullet point
+experiences:
+    - role: Business Tech Analyst - Expert
+      time: Jan 2018 – Sep 2018
+      company: University of Missouri, Department of Family Medicine
+      details: |
+          - Extract data from various data stores utilizing criteria based on client requirements
+          - Deliver standardized and ad hoc reports using Excel/SQL/Cognos/Tableau/SAS
+          - Design of several key data tables and create SQL scripts to streamline reporting needs
+          - Build interactive physician outpatient productivity report using Tableau
+          - Analyze and help explain physician outpatient productivity trend using Tableau and SAS
+          - Identify new tools to streamline business processes
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

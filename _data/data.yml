@@ -161,19 +161,3 @@ projects:
       - title: Finding Donors for CharityML
         link: "https://github.com/ustcdj/Finding_Donors"
         tagline: "The goal of this project is to help a fictitious charity organization (CharityML) to develop a supervised learning model that can accurately predict whether an individual makes more than $50,000 annually. Understanding an individual’s income can help this charity better understand which potential donors they should reach out and the amount of donation to request."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: SQL
-        level: 90%
-
-      - name: Python
-        level: 85%
-
-      - name: Tableau
-        level: 95%
-
-      - name: SAS
-        level: 85%

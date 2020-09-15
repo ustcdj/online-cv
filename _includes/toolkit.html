@@ -1,0 +1,18 @@
+{% assign toolkit = site.data.data.sidebar.toolkit %}
+{% if toolkit %}
+<div class="toolkit-container container-block">
+
+  <h2 class="container-block-title">
+    Toolkit
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for tool in toolkit %}
+    <li>
+      {{ language.tool }}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}

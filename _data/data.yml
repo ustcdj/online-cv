@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ustcdj@gmail.com
-    phone: 573 234 6102
+    phone: (573) 234 6102
     website: ustcdj.github.io #do not add http://
     linkedin: linkedin.com/in/ustcdj
     github: github.com/ustcdj
@@ -45,7 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization, and familiar with machine learning algorithms such as supervised learning, unsupervised learning, neural networks. Excellent written and oral communication skills built from years of presenting analysis results to seniro management.
+      Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization,
+      and familiar with machine learning algorithms such as supervised learning, unsupervised learning,
+      neural networks. Excellent written and oral communication skills built from years of presenting
+      analysis results to senior management.
+
 education:
     - degree: Data Scientist Nanodegree
       university: Udacity

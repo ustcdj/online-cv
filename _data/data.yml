@@ -33,9 +33,7 @@ sidebar:
         level: Native
 
     toolkit:
-      - tool: SAS
-      - tool: SQL
-
+      - tool: [SAS, SQL]
 
     interests:
       - item: Techonology

@@ -34,22 +34,28 @@ sidebar:
 
     toolkit:
       - tool: Git
+      - tool: AWS
       - tool: SAS
       - tool: SQL
       - tool: NLP
+      - tool: NLTK
       - tool: Excel
+      - tool: Flask
       - tool: Spark
+      - tool: Heroku
       - tool: Python
+      - tool: GitHub
       - tool: Pandas
       - tool: NumPy
-      - tool: GitHub
       - tool: Tableau
       - tool: PySpark
+      - tool: Matplotlib
       - tool: Scikit-Learn
       - tool: Visualization
+      - tool: BeautifulSoup
       - tool: Data cleaning
-      - tool: Communication
       - tool: Critical thinking
+      - tool: Communication
       - tool: Problem-solving
       - tool: Google Analytics
       - tool: Machine learning
@@ -72,8 +78,8 @@ career-profile:
     title: Career Profile
     summary: |
       Seeking a role to make a difference as a Data Scientist, where I can challenge myself by using
-      my multidisciplinary background to find meaningful insights that can help data-driven business
-      adapt to the big data world.
+      my multidisciplinary background to find meaningful and actionable insights that can help
+      data-driven business adapt to the big data world.
 
       Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization,
       and familiar with machine learning algorithms such as supervised learning and unsupervised learning.

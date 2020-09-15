@@ -33,8 +33,31 @@ sidebar:
         level: Native
 
     toolkit:
-      - tool: [SAS, SQL]
-
+      - tool: Git
+      - tool: SAS
+      - tool: SQL
+      - tool: NLP
+      - tool: Excel
+      - tool: Spark
+      - tool: Python
+      - tool: Pandas
+      - tool: NumPy
+      - tool: GitHub
+      - tool: Tableau
+      - tool: PySpark
+      - tool: Scikit-Learn
+      - tool: Visualization
+      - tool: Data cleaning
+      - tool: Communication
+      - tool: Problem-solving
+      - tool: Google Analytics
+      - tool: Machine learning
+      - tool: Critical thinking
+      - tool: Jupyter Notebooks
+      - tool:
+      - tool:
+      - tool:
+        
     interests:
       - item: Techonology
         link:

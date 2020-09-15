@@ -33,11 +33,9 @@ sidebar:
         level: Native
 
     toolkit:
-      - idiom: SAS
-        level:
+      - tool: SAS
+      - tool: SQL
 
-      - idiom: SQL
-        level: 
 
     interests:
       - item: Techonology

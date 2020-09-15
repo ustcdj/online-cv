@@ -71,10 +71,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      Seeking a role to make a difference as a Data Scientist, where I can challenge myself by using
+      my multidisciplinary background to find meaningful insights that can help data-driven business
+      adapt to the big data world.
+
       Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization,
-      and familiar with machine learning algorithms such as supervised learning, unsupervised learning,
-      neural networks. Excellent written and oral communication skills built from years of presenting
-      analysis results to senior management.
+      and familiar with machine learning algorithms such as supervised learning and unsupervised learning.
+      Excellent written and oral communication skills built from years of presenting analysis results to
+      senior management.
 
 education:
     - degree: Data Scientist Nanodegree

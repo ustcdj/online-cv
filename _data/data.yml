@@ -38,13 +38,13 @@ sidebar:
       - tool: SAS
       - tool: SQL
       - tool: NLP
-      - tool: NLTK
       - tool: Excel
       - tool: Flask
+      - tool: NLTK
       - tool: Spark
-      - tool: Heroku
-      - tool: Python
       - tool: GitHub
+      - tool: Python
+      - tool: Heroku
       - tool: Pandas
       - tool: NumPy
       - tool: Tableau

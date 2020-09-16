@@ -41,14 +41,14 @@ sidebar:
       - tool: Excel
       - tool: Flask
       - tool: NLTK
-      - tool: Spark
+      - tool: Plotly
       - tool: GitHub
       - tool: Python
-      - tool: Heroku
       - tool: Pandas
       - tool: NumPy
       - tool: Tableau
       - tool: PySpark
+      - tool: Seaborn
       - tool: Matplotlib
       - tool: Scikit-Learn
       - tool: Visualization
@@ -173,24 +173,31 @@ projects:
       - title: Recommendation Engine with IBM
         link: "https://github.com/ustcdj/Recommendation_Engine_with_IBM"
         tagline: "Using three mainstream approaches - (1) Rank Based (2) User-User Based Collaborative Filtering
-        (3) Matrix Factorization, developed an article recommendation engine to recommend articles to the users on the IBM Watson Studio platform."
+        (3) Matrix Factorization, developed an article recommendation engine to recommend articles to the users
+        on the IBM Watson Studio platform."
 
       - title: Classify Disaster Response
         link: "https://github.com/ustcdj/Disaster_Response"
-        tagline: "Using NLP and machine learning pipeline, built a model that classifies disaster messages into 36 categories with F score of 0.65. A webapp was also developed."
+        tagline: "Using NLP and machine learning pipeline, built a model that classifies disaster messages
+        into 36 categories with F score of 0.65. A webapp was also developed."
 
       - title: Airbnb List Price Analysis
         link: "https://github.com/ustcdj/Airbnb_Pricing"
-        tagline: "Analyzed Airbnb list price in Boston and Seattle to find any trends, and to identify what factors affect the Airbnb listing price."
+        tagline: "Analyzed Airbnb list price in Boston and Seattle to find trends, and to identify what factors
+        affect the Airbnb listing price."
 
       - title: Identify Customer Segmentation
         link: "https://github.com/ustcdj/Identify_Customer_Segmentation"
-        tagline: "Applied unsupervised learning techniques (PCA, clustering) on demographic and spending data of 0.89M German households. Identified two segments of the population that form the core customer base of a mail-order sales company."
+        tagline: "Applied unsupervised learning techniques (PCA, clustering) on demographic and spending data of
+        0.89 million German households. Identified two segments of the population that form the core customer base of
+        a mail-order sales company."
 
       - title: Flower Image Classification
         link: "https://github.com/ustcdj/Image_Classification"
-        tagline: "Using a pre-trained deep learning model densenet121, built an image classification application and used the trained model to recognize 112 species of flowers with accuracy of 0.89."
+        tagline: "Using a pre-trained deep learning model densenet121, built an image classification application
+        and used the trained model to recognize 112 species of flowers with accuracy of 0.89."
 
       - title: Finding Donors for CharityML
         link: "https://github.com/ustcdj/Finding_Donors"
-        tagline: "Used supervised learning algorithms, built a machine learning model that can predict potential charity donors with accuracy score of 0.86 and F-score of 0.73."
+        tagline: "Used supervised learning algorithms, built a machine learning model that can predict potential
+        charity donors with accuracy score of 0.86 and F-score of 0.73."

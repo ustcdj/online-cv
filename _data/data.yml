@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ustcdj@gmail.com
-    phone: (573) 234 6102
+    phone: (573) 234-6102
     website: ustcdj.github.io #do not add http://
     linkedin: linkedin.com/in/ustcdj
     github: github.com/ustcdj
@@ -34,12 +34,12 @@ sidebar:
 
     toolkit:
       - tool: Git
-      - tool: SAS
       - tool: SQL
       - tool: NLP
+      - tool: SAS
       - tool: AWS
-      - tool: Excel
       - tool: Flask
+      - tool: Excel
       - tool: NLTK
       - tool: Plotly
       - tool: GitHub
@@ -77,12 +77,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seeking a role to make a difference as a Data Scientist, where I can challenge myself by using
-      my multidisciplinary background to find meaningful and actionable insights that can help
-      data-driven business adapt to the big data world.
+      Seeking a role to make a difference as a Data Scientist,
+      where I can challenge myself by using my multidisciplinary background to find meaningful and actionable
+      insights that can help data-driven businesses adapt to the big data world.
 
-      Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization,
-      and familiar with machine learning algorithms such as supervised learning and unsupervised learning.
+      5 years of data analytics experience in retail, education, and healthcare.
+      Highly analytical and detail-oriented. Skilled in data analysis and visualization,
+      and proficient at machine learning algorithms such as supervised learning and unsupervised learning.
       Excellent written and oral communication skills built from years of presenting analysis results to
       senior management.
 
@@ -136,24 +137,24 @@ experiences:
       time: Jan 2018 – Sep 2018
       company: University of Missouri, Department of Family and Community Medicine, Columbia, MO
       details: |
-          - Built interactive physician outpatient productivity report
-          - Analyzed physician outpatient productivity data and identified trends
-          - Designed key data tables and created SQL scripts to streamline reporting needs
+          -  Initiated analytics tools to make data-driven decisions in the department
+          -  Designed key data tables and created SQL scripts to streamline reporting needs
+          -  Built interactive physician productivity reports that helped administrators identify trends
     - role: Date Resource Coordinator
       time: Jan 2016 – Dec 2017
       company: University of Missouri, College of Education, Columbia, MO
       details: |
           - Initiated analytics tools to make data-driven decisions in the college
-          - Developed and maintained Microsoft SQL database with 50+ tables, and 30+ views
+          - Developed and maintained a Microsoft SQL database with 50+ tables, and 30+ views
           - Analyzed freshman and sophomore attrition data and offered actionable suggestions for academic advisors to improve retention
-          - Automated process that would help academic advisors quickly spot students with low major GPA
+          - Automated a process that would help academic advisors quickly spot students with low major GPA
     - role: Business Intelligence Analyst
       time: Sep 2013 - Dec 2015
       company: MBS Textbook Exchange, Columbia, MO
       details: |
-          - Analyzed historical call volumes and scheduling of call center with 100+ customer service representatives and found that the call center scheduling could be optimized by 2%, a potential annual savings of $100k.
-          - Evaluated benefits/costs of adopting automation or continuing using manual labor to pick textbooks from warehouse bookshelves, and found that manual labor is actually cheaper compared to automation
-          - Analyzed customer satisfaction surveys and found that some marketing messages widely regarded as positive would actually decrease book sales
+          -  Analyzed 5 years of call volumes and scheduling data of 100+ customer service representatives, and found that the call center scheduling could be optimized by 2%, a potential annual savings of $100k.
+          -  Evaluated benefits/costs of adopting automation or continuing using manual labor in the warehouse, and found that using manual labor is still cheaper compared to automation
+          -  Analyzed customer satisfaction surveys and found that some marketing messages widely regarded as positive were negatively related to book sales
     - role: Trace Analysis Supervisor
       time: Sep 2008 - May 2010
       company: Doctor's Data Inc., St Charles, IL
@@ -167,37 +168,35 @@ projects:
     assignments:
       - title: Predict Sparkify User Churn
         link: "https://github.com/ustcdj/Sparkify_Churn_Analysis"
-        tagline: "Using PySpark on AWS, analyzed 12GB data from Sparkify (a fictitious music streaming company)
+        tagline: "Using PySpark on AWS, analyzed 12GB data
         and built a machine learning model to predict user churn with F score of 0.56."
 
       - title: Recommendation Engine with IBM
         link: "https://github.com/ustcdj/Recommendation_Engine_with_IBM"
-        tagline: "Using three mainstream approaches - (1) Rank Based (2) User-User Based Collaborative Filtering
-        (3) Matrix Factorization, developed an article recommendation engine to recommend articles to the users
-        on the IBM Watson Studio platform."
+        tagline: "Using three mainstream approaches - (1) Rank Based, (2) User-User Based Collaborative Filtering,
+        and (3) Matrix Factorization, developed an article recommendation engine for the IBM Watson Studio platform."
 
       - title: Classify Disaster Response
         link: "https://github.com/ustcdj/Disaster_Response"
         tagline: "Using NLP and machine learning pipeline, built a model that classifies disaster messages
-        into 36 categories with F score of 0.65. A webapp was also developed."
+        into 36 categories with an F score of 0.65. A webapp was also developed."
 
       - title: Airbnb List Price Analysis
         link: "https://github.com/ustcdj/Airbnb_Pricing"
-        tagline: "Analyzed Airbnb list price in Boston and Seattle to find trends, and to identify what factors
+        tagline: "Analyzed Airbnb list prices in Boston and Seattle to find trends, and to identify what factors
         affect the Airbnb listing price."
 
       - title: Identify Customer Segmentation
         link: "https://github.com/ustcdj/Identify_Customer_Segmentation"
         tagline: "Applied unsupervised learning techniques (PCA, clustering) on demographic and spending data of
-        0.89 million German households. Identified two segments of the population that form the core customer base of
-        a mail-order sales company."
+        0.89 million German households. Among them, identified two segments that would bring the highest expected returns."
 
       - title: Flower Image Classification
         link: "https://github.com/ustcdj/Image_Classification"
         tagline: "Using a pre-trained deep learning model densenet121, built an image classification application
-        and used the trained model to recognize 112 species of flowers with accuracy of 0.89."
+        and used the trained model to recognize 112 species of flowers with 89% accuracy."
 
       - title: Finding Donors for CharityML
         link: "https://github.com/ustcdj/Finding_Donors"
         tagline: "Used supervised learning algorithms, built a machine learning model that can predict potential
-        charity donors with accuracy score of 0.86 and F-score of 0.73."
+        charity donors with 86% accuracy and an F-score of 0.73."

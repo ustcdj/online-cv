@@ -167,11 +167,13 @@ projects:
     assignments:
       - title: Predict Sparkify User Churn
         link: "https://github.com/ustcdj/Sparkify_Churn_Analysis"
-        tagline: "Using PySpark on AWS, analyzed 12GB data from Sparkify (a fictitious music streaming company) and built a machine learning model to predict user churn with F score of 0.56."
+        tagline: "Using PySpark on AWS, analyzed 12GB data from Sparkify (a fictitious music streaming company)
+        and built a machine learning model to predict user churn with F score of 0.56."
 
       - title: Recommendation Engine with IBM
         link: "https://github.com/ustcdj/Recommendation_Engine_with_IBM"
-        tagline: "Using three mainstream approaches, (1) Rank Based (2) User-User Based Collaborative Filtering (3) Matrix Factorization, developed an article recommendation engine to recommend articles to the users on the IBM Watson Studio platform."
+        tagline: "Using three mainstream approaches - (1) Rank Based (2) User-User Based Collaborative Filtering
+        (3) Matrix Factorization, developed an article recommendation engine to recommend articles to the users on the IBM Watson Studio platform."
 
       - title: Classify Disaster Response
         link: "https://github.com/ustcdj/Disaster_Response"
@@ -187,7 +189,7 @@ projects:
 
       - title: Flower Image Classification
         link: "https://github.com/ustcdj/Image_Classification"
-        tagline: "Using a pre-trained deep learning model densenet121, built an image classification application and used the trained model to recognize 112 species of flowers with 0.89 accuracy."
+        tagline: "Using a pre-trained deep learning model densenet121, built an image classification application and used the trained model to recognize 112 species of flowers with accuracy of 0.89."
 
       - title: Finding Donors for CharityML
         link: "https://github.com/ustcdj/Finding_Donors"

@@ -79,9 +79,9 @@ career-profile:
     summary: |
       Seeking a role to make a difference as a Data Scientist,
       where I can challenge myself by using my multidisciplinary background to find meaningful and actionable
-      insights that can help data-driven businesses adapt to the big data world.
+      insights that can help data-driven businesses adapt grow.
 
-      5 years of data analytics experience in retail, education, and healthcare.
+      5 years of professional data analytics experience in retail, education, and healthcare.
       Highly analytical and detail-oriented. Skilled in data analysis and visualization,
       and proficient at machine learning algorithms such as supervised learning and unsupervised learning.
       Excellent written and oral communication skills built from years of presenting analysis results to
@@ -137,9 +137,9 @@ experiences:
       time: Jan 2018 – Sep 2018
       company: University of Missouri, Department of Family and Community Medicine, Columbia, MO
       details: |
-          -  Initiated analytics tools to make data-driven decisions in the department
-          -  Designed key data tables and created SQL scripts to streamline reporting needs
-          -  Built interactive physician productivity reports that helped administrators identify trends
+          -  Drove technology changes to make data-driven decisions in the department
+          -  Built interactive reports that helped managers and billing specialists identify trends and spot discrepancies easily
+          -  Severed as a liaison between cross functional teams
     - role: Date Resource Coordinator
       time: Jan 2016 – Dec 2017
       company: University of Missouri, College of Education, Columbia, MO
@@ -152,16 +152,18 @@ experiences:
       time: Sep 2013 - Dec 2015
       company: MBS Textbook Exchange, Columbia, MO
       details: |
-          -  Analyzed 5 years of call volumes and scheduling data of 100+ customer service representatives, and found that the call center scheduling could be optimized by 2%, a potential annual savings of $100k.
+          -  Analyzed 5 years of call volumes and scheduling data of 100+ customer service representatives, and found that the call center scheduling could be optimized by 2%
           -  Evaluated benefits/costs of adopting automation or continuing using manual labor in the warehouse, and found that using manual labor is still cheaper compared to automation
           -  Analyzed customer satisfaction surveys and found that some marketing messages widely regarded as positive were negatively related to book sales
+          -  Automated a dynamic pricing process by considering cost, competitors' prices, and daily web traffic
+          -  A/B testing different pricing strategies
     - role: Trace Analysis Supervisor
       time: Sep 2008 - May 2010
       company: Doctor's Data Inc., St Charles, IL
       details: |
           -  Managed scheduling and daily operations in a fast-paced production lab
           -  Provided technical support to internal and external clients with great satisfaction
-          -  Developed and validated fast analysis method that increased production rate by 30%
+          -  Developed and validated a fast analysis method that increased production rate by 30%
 projects:
     title: Projects
     intro: >
@@ -169,7 +171,7 @@ projects:
       - title: Predict Sparkify User Churn
         link: "https://github.com/ustcdj/Sparkify_Churn_Analysis"
         tagline: "Using PySpark on AWS, analyzed 12GB data
-        and built a machine learning model to predict user churn with F score of 0.56."
+        and built a machine learning model to predict user churn with an F score of 0.56."
 
       - title: Recommendation Engine with IBM
         link: "https://github.com/ustcdj/Recommendation_Engine_with_IBM"
@@ -189,7 +191,7 @@ projects:
       - title: Identify Customer Segmentation
         link: "https://github.com/ustcdj/Identify_Customer_Segmentation"
         tagline: "Applied unsupervised learning techniques (PCA, clustering) on demographic and spending data of
-        0.89 million German households. Among them, identified two segments that would bring the highest expected returns."
+        0.89 million German households. Among them, identified two segments that could potentially bring the highest expected returns."
 
       - title: Flower Image Classification
         link: "https://github.com/ustcdj/Image_Classification"

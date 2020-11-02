@@ -166,7 +166,7 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Forecast Monthly Vehicle Sales in the United States
+      - title: Forecast Monthly Vehicle Sales
         link: "https://github.com/ustcdj/Forecast_Monthly_Vehicle_Sales"
         tagline: "Using time series forecasting, analyzed monthly vehicle sales in the United States
         between January 1976 and November 2019, found the overall trend over time and made

@@ -165,7 +165,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-    assignments:
+    assignments: >
       - title: Forecast Monthly Vehicle Sales in the United States
         link: "https://github.com/ustcdj/Forecast_Monthly_Vehicle_Sales"
         tagline: "Using time series forecasting, analyzed monthly vehicle sales in the United States

@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: DJ Dong
+    name: Jiang (DJ) Dong
     tagline: Data Scientist
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -52,12 +52,10 @@ sidebar:
       - tool: Matplotlib
       - tool: Scikit-Learn
       - tool: Visualization
-      - tool: BeautifulSoup
       - tool: Data cleaning
       - tool: Critical thinking
       - tool: Communication
       - tool: Problem-solving
-      - tool: Google Analytics
       - tool: Machine learning
       - tool: Jupyter Notebooks
       - tool:
@@ -137,37 +135,43 @@ experiences:
       time: Jan 2018 – Sep 2018
       company: University of Missouri, Department of Family and Community Medicine, Columbia, MO
       details: |
-          -  Drove technology changes to make data-driven decisions in the department
-          -  Built interactive reports that helped managers and billing specialists identify trends and spot discrepancies easily
-          -  Severed as a liaison between cross functional teams
+          - Streamlined data acquisition process by extracting data from various data sources using SQL
+          - Built standard and ad hoc reports using Tableau
+          - Severed as a liaison between cross-functional teams
     - role: Date Resource Coordinator
       time: Jan 2016 – Dec 2017
       company: University of Missouri, College of Education, Columbia, MO
       details: |
           - Initiated analytics tools to make data-driven decisions in the college
           - Developed and maintained a Microsoft SQL database with 50+ tables, and 30+ views
-          - Analyzed freshman and sophomore attrition data and offered actionable suggestions for academic advisors to improve retention
-          - Automated a process that would help academic advisors quickly spot students with low major GPA
+          - Conducted descriptive statistical analysis on learning outcomes using SQL and Tableau
+          - Conducted predictive statistical analysis on student retention rate using SAS, and offered actionablesuggestions for academic advisors to improve retention
+          - Developed and administered Qualtrics surveys and analyzed results to assess continuousimprovement initiatives
     - role: Business Intelligence Analyst
       time: Sep 2013 - Dec 2015
       company: MBS Textbook Exchange, Columbia, MO
       details: |
-          -  Analyzed 5 years of call volumes and scheduling data of 100+ customer service representatives, and found that the call center scheduling could be optimized by 2%
-          -  Evaluated benefits/costs of adopting automation or continuing using manual labor in the warehouse, and found that using manual labor is still cheaper compared to automation
-          -  Analyzed customer satisfaction surveys and found that some marketing messages widely regarded as positive were negatively related to book sales
-          -  Automated a dynamic pricing process by considering cost, competitors' prices, and daily web traffic
-          -  A/B testing different pricing strategies
+          - Built standard and ad hoc reports using Tableau
+          - Conducted ad-hoc analyses to support effective decision making
+          - Forecast call center call volumes using SAS Enterprise Miner
+          - Built and optimized SQL queries to automate a dynamic pricing process
     - role: Trace Analysis Supervisor
       time: Sep 2008 - May 2010
       company: Doctor's Data Inc., St Charles, IL
       details: |
-          -  Managed scheduling and daily operations in a fast-paced production lab
-          -  Provided technical support to internal and external clients with great satisfaction
-          -  Developed and validated a fast analysis method that increased production rate by 30%
+          - Managed scheduling and daily operations in a fast-paced production lab
+          - Provided technical support to internal and external clients with great satisfaction
+          - Developed and validated a fast analysis method that increased production rate by 30%
 projects:
     title: Projects
     intro: >
     assignments:
+      - title: Forecast Monthly Vehicle Sales in the United States
+        link: "https://github.com/ustcdj/Forecast_Monthly_Vehicle_Sales"
+        tagline: "Using time series forecasting, analyzed monthly vehicle sales in the United States
+        between January 1976 and November 2019, found the overall trend over time and made
+        forecasts for vehicle sales in December 2019 and May 2020.
+
       - title: Predict Sparkify User Churn
         link: "https://github.com/ustcdj/Sparkify_Churn_Analysis"
         tagline: "Using PySpark on AWS, analyzed 12GB data

@@ -165,12 +165,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-    assignments: >
+    assignments:
       - title: Forecast Monthly Vehicle Sales in the United States
         link: "https://github.com/ustcdj/Forecast_Monthly_Vehicle_Sales"
         tagline: "Using time series forecasting, analyzed monthly vehicle sales in the United States
         between January 1976 and November 2019, found the overall trend over time and made
-        forecasts for vehicle sales in December 2019 and May 2020.
+        forecasts for vehicle sales in December 2019 and May 2020."
 
       - title: Predict Sparkify User Churn
         link: "https://github.com/ustcdj/Sparkify_Churn_Analysis"
